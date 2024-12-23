@@ -1,0 +1,11 @@
+we will use jwt and bcrpt for authentication
+
+user ke routes alag honge aur upload wagera karne ke routes bhi alag honge
+
+exploring router
+
+we will use express validator for validating email password
+hum is ko as a third party middleware use karen gen 
+
+
+connections wagera ham main file index se hi karate hen
